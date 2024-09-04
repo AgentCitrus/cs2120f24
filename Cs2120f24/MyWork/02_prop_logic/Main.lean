@@ -107,7 +107,8 @@ Properties of Propositions (Expressions)!
 Homework #1
 
 1.Complete the sentence: If a proposition is not valid,
-then there is at least one __________.
+then there is at least one interpretation that evaluates
+the expression as false.
 
 2. Read the following propositions in English and render
 them into the formal language of propositional logic. We
